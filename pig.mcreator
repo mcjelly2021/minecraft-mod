@@ -1,0 +1,1845 @@
+{
+  "mod_elements": [
+    {
+      "name": "Cde",
+      "type": "tab",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cde"
+    },
+    {
+      "name": "Block1",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_1"
+    },
+    {
+      "name": "Shit",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit"
+    },
+    {
+      "name": "ShitPlankWood",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_wood"
+    },
+    {
+      "name": "ShitPlankLog",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_log"
+    },
+    {
+      "name": "ShitPlankPlanks",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_planks"
+    },
+    {
+      "name": "ShitPlankLeaves",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_leaves"
+    },
+    {
+      "name": "ShitPlankStairs",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_stairs"
+    },
+    {
+      "name": "ShitPlankSlab",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_slab"
+    },
+    {
+      "name": "ShitPlankFence",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_fence"
+    },
+    {
+      "name": "ShitPlankFenceGate",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_fence_gate"
+    },
+    {
+      "name": "ShitPlankPressurePlate",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_pressure_plate"
+    },
+    {
+      "name": "ShitPlankButton",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_button"
+    },
+    {
+      "name": "ShitPlankItemsTag",
+      "type": "tag",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_items_tag"
+    },
+    {
+      "name": "ShitPlankWoodRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_wood_recipe"
+    },
+    {
+      "name": "ShitPlankPlanksRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_planks_recipe"
+    },
+    {
+      "name": "ShitPlankStairsRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_stairs_recipe"
+    },
+    {
+      "name": "ShitPlankSlabRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_slab_recipe"
+    },
+    {
+      "name": "ShitPlankFenceRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_fence_recipe"
+    },
+    {
+      "name": "ShitPlankFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_fence_gate_recipe"
+    },
+    {
+      "name": "ShitPlankPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_pressure_plate_recipe"
+    },
+    {
+      "name": "ShitPlankButtonRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_button_recipe"
+    },
+    {
+      "name": "ShitPlankStickRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_plank_stick_recipe"
+    },
+    {
+      "name": "DDDArmor",
+      "type": "armor",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ddd_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DDDArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ddd_armor_helmet_recipe"
+    },
+    {
+      "name": "DDDArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ddd_armor_body_recipe"
+    },
+    {
+      "name": "DDDArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ddd_armor_leggings_recipe"
+    },
+    {
+      "name": "DDDArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ddd_armor_boots_recipe"
+    },
+    {
+      "name": "DdddsPickaxe",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dddds_pickaxe"
+    },
+    {
+      "name": "DdddsAxe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dddds_axe"
+    },
+    {
+      "name": "DdddsSword",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dddds_sword"
+    },
+    {
+      "name": "DdddsShovel",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dddds_shovel"
+    },
+    {
+      "name": "DdddsHoe",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dddds_hoe"
+    },
+    {
+      "name": "DdddsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dddds_pickaxe_recipe"
+    },
+    {
+      "name": "DdddsAxeRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dddds_axe_recipe"
+    },
+    {
+      "name": "DdddsSwordRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dddds_sword_recipe"
+    },
+    {
+      "name": "DdddsShovelRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dddds_shovel_recipe"
+    },
+    {
+      "name": "DdddsHoeRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dddds_hoe_recipe"
+    },
+    {
+      "name": "Pee",
+      "type": "fluid",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pee",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "ShitWorld",
+      "type": "biome",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_world"
+    },
+    {
+      "name": "ShitedIngot",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_ingot"
+    },
+    {
+      "name": "ShitedOre",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_ore"
+    },
+    {
+      "name": "ShitedBlock",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_block"
+    },
+    {
+      "name": "ShitedOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_ore_block_recipe"
+    },
+    {
+      "name": "ShitedBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_block_ore_recipe"
+    },
+    {
+      "name": "ShitedOreSmelting",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_ore_smelting"
+    },
+    {
+      "name": "ShitedArmor",
+      "type": "armor",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ShitedArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_armor_helmet_recipe"
+    },
+    {
+      "name": "ShitedArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_armor_body_recipe"
+    },
+    {
+      "name": "ShitedArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_armor_leggings_recipe"
+    },
+    {
+      "name": "ShitedArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_armor_boots_recipe"
+    },
+    {
+      "name": "ShitedPickaxe",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_pickaxe"
+    },
+    {
+      "name": "ShitedAxe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_axe"
+    },
+    {
+      "name": "ShitedSword",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_sword"
+    },
+    {
+      "name": "ShitedShovel",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_shovel"
+    },
+    {
+      "name": "ShitedHoe",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_hoe"
+    },
+    {
+      "name": "ShitedPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_pickaxe_recipe"
+    },
+    {
+      "name": "ShitedAxeRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_axe_recipe"
+    },
+    {
+      "name": "ShitedSwordRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_sword_recipe"
+    },
+    {
+      "name": "ShitedShovelRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_shovel_recipe"
+    },
+    {
+      "name": "ShitedHoeRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shited_hoe_recipe"
+    },
+    {
+      "name": "Iphone",
+      "type": "rangeditem",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iphone"
+    },
+    {
+      "name": "Iphonew",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iphonew"
+    },
+    {
+      "name": "Closestool",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "closestool"
+    },
+    {
+      "name": "ClosestoolButton",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "closestool_button"
+    },
+    {
+      "name": "PeetreeWood",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_wood"
+    },
+    {
+      "name": "PeetreeLog",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_log"
+    },
+    {
+      "name": "PeetreePlanks",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_planks"
+    },
+    {
+      "name": "PeetreeLeaves",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_leaves"
+    },
+    {
+      "name": "PeetreeStairs",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_stairs"
+    },
+    {
+      "name": "PeetreeSlab",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_slab"
+    },
+    {
+      "name": "PeetreeFence",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_fence"
+    },
+    {
+      "name": "PeetreeFenceGate",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_fence_gate"
+    },
+    {
+      "name": "PeetreePressurePlate",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_pressure_plate"
+    },
+    {
+      "name": "PeetreeButton",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_button"
+    },
+    {
+      "name": "PeetreeItemsTag",
+      "type": "tag",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_items_tag"
+    },
+    {
+      "name": "PeetreeWoodRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_wood_recipe"
+    },
+    {
+      "name": "PeetreePlanksRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_planks_recipe"
+    },
+    {
+      "name": "PeetreeStairsRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_stairs_recipe"
+    },
+    {
+      "name": "PeetreeSlabRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_slab_recipe"
+    },
+    {
+      "name": "PeetreeFenceRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_fence_recipe"
+    },
+    {
+      "name": "PeetreeFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_fence_gate_recipe"
+    },
+    {
+      "name": "PeetreePressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_pressure_plate_recipe"
+    },
+    {
+      "name": "PeetreeButtonRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_button_recipe"
+    },
+    {
+      "name": "PeetreeStickRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peetree_stick_recipe"
+    },
+    {
+      "name": "PeeedIngot",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_ingot"
+    },
+    {
+      "name": "PeeedOre",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_ore"
+    },
+    {
+      "name": "PeeedBlock",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_block"
+    },
+    {
+      "name": "PeeedOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_ore_block_recipe"
+    },
+    {
+      "name": "PeeedBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_block_ore_recipe"
+    },
+    {
+      "name": "PeeedOreSmelting",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_ore_smelting"
+    },
+    {
+      "name": "PeeedPickaxe",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_pickaxe"
+    },
+    {
+      "name": "PeeedAxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_axe"
+    },
+    {
+      "name": "PeeedSword",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_sword"
+    },
+    {
+      "name": "PeeedShovel",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_shovel"
+    },
+    {
+      "name": "PeeedHoe",
+      "type": "tool",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_hoe"
+    },
+    {
+      "name": "PeeedPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_pickaxe_recipe"
+    },
+    {
+      "name": "PeeedAxeRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_axe_recipe"
+    },
+    {
+      "name": "PeeedSwordRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_sword_recipe"
+    },
+    {
+      "name": "PeeedShovelRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_shovel_recipe"
+    },
+    {
+      "name": "PeeedHoeRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_hoe_recipe"
+    },
+    {
+      "name": "PeeedArmor",
+      "type": "armor",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PeeedArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_armor_helmet_recipe"
+    },
+    {
+      "name": "PeeedArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_armor_body_recipe"
+    },
+    {
+      "name": "PeeedArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_armor_leggings_recipe"
+    },
+    {
+      "name": "PeeedArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peeed_armor_boots_recipe"
+    },
+    {
+      "name": "PeeWorld",
+      "type": "biome",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pee_world"
+    },
+    {
+      "name": "ShitLand",
+      "type": "dimension",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_land",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "PeeLand",
+      "type": "dimension",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pee_land",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "ShitMob",
+      "type": "livingentity",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shit_mob"
+    },
+    {
+      "name": "D",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d"
+    },
+    {
+      "name": "Ewastg",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ewastg"
+    },
+    {
+      "name": "IPad",
+      "type": "rangeditem",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "i_pad"
+    },
+    {
+      "name": "Sshi",
+      "type": "livingentity",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sshi"
+    },
+    {
+      "name": "Rtg",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rtg"
+    },
+    {
+      "name": "Pigo",
+      "type": "livingentity",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pigo"
+    },
+    {
+      "name": "MacOS",
+      "type": "rangeditem",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mac_os"
+    },
+    {
+      "name": "Bike",
+      "type": "livingentity",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bike"
+    },
+    {
+      "name": "Ffofore",
+      "type": "rangeditem",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ffofore"
+    },
+    {
+      "name": "Ipadpf",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ipadpf"
+    },
+    {
+      "name": "Macpf",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "macpf"
+    },
+    {
+      "name": "Shotpf",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shotpf"
+    },
+    {
+      "name": "DingTalk",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ding_talk"
+    },
+    {
+      "name": "DingTalkBlock",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ding_talk_block"
+    },
+    {
+      "name": "Dto",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dto"
+    },
+    {
+      "name": "PeeDrink",
+      "type": "potion",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pee_drink"
+    },
+    {
+      "name": "BillGates",
+      "type": "livingentity",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bill_gates"
+    },
+    {
+      "name": "Pihouse",
+      "type": "structure",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pihouse"
+    },
+    {
+      "name": "Traim",
+      "type": "livingentity",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "traim"
+    },
+    {
+      "name": "PigTab",
+      "type": "tab",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_tab"
+    },
+    {
+      "name": "PigWood",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_wood"
+    },
+    {
+      "name": "PigLog",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_log"
+    },
+    {
+      "name": "PigPlanks",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_planks"
+    },
+    {
+      "name": "PigLeaves",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_leaves"
+    },
+    {
+      "name": "PigStairs",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_stairs"
+    },
+    {
+      "name": "PigSlab",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_slab"
+    },
+    {
+      "name": "PigFence",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_fence"
+    },
+    {
+      "name": "PigFenceGate",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_fence_gate"
+    },
+    {
+      "name": "PigPressurePlate",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_pressure_plate"
+    },
+    {
+      "name": "PigButton",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_button"
+    },
+    {
+      "name": "PigItemsTag",
+      "type": "tag",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_items_tag"
+    },
+    {
+      "name": "PigWoodRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_wood_recipe"
+    },
+    {
+      "name": "PigPlanksRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_planks_recipe"
+    },
+    {
+      "name": "PigStairsRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_stairs_recipe"
+    },
+    {
+      "name": "PigSlabRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_slab_recipe"
+    },
+    {
+      "name": "PigFenceRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_fence_recipe"
+    },
+    {
+      "name": "PigFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_fence_gate_recipe"
+    },
+    {
+      "name": "PigPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_pressure_plate_recipe"
+    },
+    {
+      "name": "PigButtonRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_button_recipe"
+    },
+    {
+      "name": "PigStickRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_stick_recipe"
+    },
+    {
+      "name": "PigIngot",
+      "type": "item",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_ingot"
+    },
+    {
+      "name": "PigOre",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_ore"
+    },
+    {
+      "name": "PigBlock",
+      "type": "block",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_block"
+    },
+    {
+      "name": "PigOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_ore_block_recipe"
+    },
+    {
+      "name": "PigBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_block_ore_recipe"
+    },
+    {
+      "name": "PigOreSmelting",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_ore_smelting"
+    },
+    {
+      "name": "PigPickaxe",
+      "type": "tool",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_pickaxe"
+    },
+    {
+      "name": "PigAxe",
+      "type": "tool",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_axe"
+    },
+    {
+      "name": "PigSword",
+      "type": "tool",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_sword"
+    },
+    {
+      "name": "PigShovel",
+      "type": "tool",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_shovel"
+    },
+    {
+      "name": "PigHoe",
+      "type": "tool",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_hoe"
+    },
+    {
+      "name": "PigPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_pickaxe_recipe"
+    },
+    {
+      "name": "PigAxeRecipe",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_axe_recipe"
+    },
+    {
+      "name": "PigSwordRecipe",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_sword_recipe"
+    },
+    {
+      "name": "PigShovelRecipe",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_shovel_recipe"
+    },
+    {
+      "name": "PigHoeRecipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_hoe_recipe"
+    },
+    {
+      "name": "PigArmor",
+      "type": "armor",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PigArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_armor_helmet_recipe"
+    },
+    {
+      "name": "PigArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_armor_body_recipe"
+    },
+    {
+      "name": "PigArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_armor_leggings_recipe"
+    },
+    {
+      "name": "PigArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_armor_boots_recipe"
+    },
+    {
+      "name": "PigDust",
+      "type": "item",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_dust"
+    },
+    {
+      "name": "Pigdusu",
+      "type": "recipe",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pigdusu"
+    },
+    {
+      "name": "Pig",
+      "type": "item",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig"
+    },
+    {
+      "name": "Biggem",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "biggem"
+    },
+    {
+      "name": "Pigli",
+      "type": "item",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pigli"
+    },
+    {
+      "name": "Piglili",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piglili"
+    },
+    {
+      "name": "Ewfs",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ewfs"
+    },
+    {
+      "name": "PigWorld",
+      "type": "biome",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_world"
+    },
+    {
+      "name": "PigLand",
+      "type": "dimension",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pig_land",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Wasxz",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wasxz"
+    },
+    {
+      "name": "Gdv",
+      "type": "recipe",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gdv"
+    },
+    {
+      "name": "Qs",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "qs"
+    },
+    {
+      "name": "DVSC",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dvsc"
+    },
+    {
+      "name": "Pigwater",
+      "type": "fluid",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pigwater",
+      "metadata": {
+        "gb": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "re",
+      "files": [
+        "ye_shang_hai_"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.computer.peeed_armor_helmet": "Peeed Helmet",
+      "item.pig.peeed_armor_helmet": "Peeed Helmet",
+      "block.sbpig.shit_plank_slab": "ShitPlank Slab",
+      "item.sbpig.ddd_armor_boots": "DDD Boots",
+      "item.pig.ddd_armor_leggings": "DDD Leggings",
+      "item.pig.peeed_shovel": "Peeed Shovel",
+      "item.pig.sshi_spawn_egg": "Shit Spawn Egg",
+      "block.sbpig.pee": "Pee",
+      "item.pig.shited_hoe": "Shited Hoe",
+      "item.computer.peeed_shovel": "Peeed Shovel",
+      "block.pig.peetree_pressure_plate": "Peetree Pressure Plate",
+      "block.sbpig.shit_plank_button": "ShitPlank Button",
+      "entity.computer.bike": "Bike",
+      "block.pig.pig_pressure_plate": "Pig Pressure Plate",
+      "biome.pig.pig_world": "Pig World",
+      "entity.sbpig.pigo": "Pigo",
+      "block.pig.ding_talk_block": "Ding Talk Block",
+      "item.sbpig.traim_spawn_egg": "Traim Spawn Egg",
+      "item.sbpig.i_pad": "iPad",
+      "item.pig.peeed_axe": "Peeed Axe",
+      "entity.computer.car": "Car",
+      "fluid.pig.pee": "Pee",
+      "item.computer.peeed_hoe": "Peeed Hoe",
+      "item.pig.pig_armor_boots": "Pig Boots",
+      "block.sbpig.peetree_leaves": "Peetree Leaves",
+      "block.pig.pig_slab": "Pig Slab",
+      "item.computer.peeed_armor_boots": "Peeed Boots",
+      "item.pig.shited_armor_helmet": "Shited Helmet",
+      "block.pig.shit_plank_fence": "ShitPlank Fence",
+      "item.computer.peeed_armor_chestplate": "Peeed Chestplate",
+      "item.sbpig.shited_sword": "Shited Sword",
+      "biome.sbpig.shit_world": "Shit World",
+      "item.pig.shited_shovel": "Shited Shovel",
+      "item.pig.pig_axe": "Pig Axe",
+      "item.pig.pig_armor_chestplate": "Pig Chestplate",
+      "block.computer.peetree_planks": "Peetree Planks",
+      "block.computer.peetree_leaves": "Peetree Leaves",
+      "block.sbpig.closestool_button": "Closestool Button",
+      "block.computer.closestool_button": "Closestool Button",
+      "item.sbpig.sshi_spawn_egg": "Shit Spawn Egg",
+      "item.pig.peeed_armor_chestplate": "Peeed Chestplate",
+      "item.computer.shited_armor_leggings": "Shited Leggings",
+      "item.sbpig.dddds_axe": "Dddds Axe",
+      "item.pig.ddd_armor_chestplate": "DDD Chestplate",
+      "item.sbpig.shited_armor_leggings": "Shited Leggings",
+      "block.pig.peetree_planks": "Peetree Planks",
+      "biome.pig.shit_world": "Shit World",
+      "block.pig.peetree_leaves": "Peetree Leaves",
+      "item.pig.peeed_ingot": "Peeed",
+      "block.computer.shit_plank_planks": "ShitPlank Planks",
+      "block.sbpig.shit_plank_planks": "ShitPlank Planks",
+      "block.pig.pig_ore": "Pig Ore",
+      "block.computer.block_1": "Block of shit",
+      "block.computer.peetree_pressure_plate": "Peetree Pressure Plate",
+      "block.pig.shited_ore": "Shited Ore",
+      "item.computer.peeed_armor_leggings": "Peeed Leggings",
+      "item.computer.peeed_pickaxe": "Peeed Pickaxe",
+      "entity.computer.shit_mob": "Shit Mob",
+      "block.computer.shit_plank_leaves": "ShitPlank Leaves",
+      "entity.sbpig.bill_gates": "Bill Gates",
+      "item.pig.traim_spawn_egg": "Traim Spawn Egg",
+      "itemGroup.tabcde": "Sky Land",
+      "item.sbpig.peeed_armor_helmet": "Peeed Helmet",
+      "item.pig.shited_armor_chestplate": "Shited Chestplate",
+      "block.sbpig.peeed_ore": "Peeed Ore",
+      "item.pig.dddds_pickaxe": "Dddds Pickaxe",
+      "item.sbpig.bike_spawn_egg": "Bike Spawn Egg",
+      "biome.sbpig.pee_world": "Pee World",
+      "item.pig.pig_armor_leggings": "Pig Leggings",
+      "block.pig.dto": "Dind Talk Ore",
+      "item.minecraft.splash_potion.effect.pee_drink": "Splash Potion of Pee Drink",
+      "block.pig.peetree_slab": "Peetree Slab",
+      "block.pig.pig_wood": "Pig Wood",
+      "block.computer.peetree_button": "Peetree Button",
+      "item.computer.pigo_spawn_egg": "Pigo Spawn Egg",
+      "item.pig.shit_land": "Shit Land Portal Igniter",
+      "entity.pig.pigo": "Pigo",
+      "block.computer.shited_ore": "Shited Ore",
+      "item.sbpig.shited_hoe": "Shited Hoe",
+      "entity.pig.traim": "Traim",
+      "item.sbpig.dddds_shovel": "Dddds Shovel",
+      "item.pig.pig_land": "Pig Land Portal Igniter",
+      "item.pig.ffofore": "弹弓",
+      "item.sbpig.ddd_armor_helmet": "DDD Helmet",
+      "item.pig.pig_sword": "Pig Sword",
+      "block.pig.shit_plank_planks": "ShitPlank Planks",
+      "itemGroup.tabpig_tab": "Pig Tab",
+      "biome.computer.pee_world": "Pee World",
+      "block.computer.peetree_log": "Peetree Log",
+      "item.pig.shited_pickaxe": "Shited Pickaxe",
+      "block.pig.pig_fence": "Pig Fence",
+      "item.minecraft.lingering_potion.effect.pee_drink": "Lingering Potion of Pee Drink",
+      "block.computer.pee": "Pee",
+      "item.sbpig.peeed_pickaxe": "Peeed Pickaxe",
+      "block.sbpig.shit_plank_leaves": "ShitPlank Leaves",
+      "block.computer.peetree_fence": "Peetree Fence",
+      "block.sbpig.peetree_wood": "Peetree Wood",
+      "item.sbpig.peeed_hoe": "Peeed Hoe",
+      "item.computer.peeed_sword": "Peeed Sword",
+      "block.sbpig.peetree_planks": "Peetree Planks",
+      "item.pig.shited_sword": "Shited Sword",
+      "item.computer.ddd_armor_helmet": "DDD Helmet",
+      "item.computer.dddds_shovel": "Dddds Shovel",
+      "item.pig.dddds_hoe": "Dddds Hoe",
+      "item.computer.shited_hoe": "Shited Hoe",
+      "block.sbpig.shit_plank_log": "ShitPlank Log",
+      "block.pig.pig_fence_gate": "Pig Fence Gate",
+      "block.pig.pig_log": "Pig Log",
+      "entity.sbpig.shit_mob": "Shit Mob",
+      "fluid.computer.pee": "Pee",
+      "block.sbpig.shit_plank_stairs": "ShitPlank Stairs",
+      "block.computer.ding_talk_block": "Ding Talk Block",
+      "block.computer.shit_plank_wood": "ShitPlank Wood",
+      "item.computer.iphone": "Iphone",
+      "entity.computer.pigo": "Pigo",
+      "block.computer.peetree_stairs": "Peetree Stairs",
+      "item.sbpig.iphone": "Iphone",
+      "item.pig.bill_gates_spawn_egg": "Bill Gates Spawn Egg",
+      "item.sbpig.shited_armor_helmet": "Shited Helmet",
+      "block.computer.peetree_fence_gate": "Peetree Fence Gate",
+      "block.computer.shited_block": "Block of Shited",
+      "entity.sbpig.sshi": "Shit",
+      "item.pig.dddds_sword": "Dddds Sword",
+      "item.pig.shited_armor_boots": "Shited Boots",
+      "item.sbpig.mac_os": "Mac OS",
+      "block.pig.peetree_log": "Peetree Log",
+      "item.pig.pig": "Pig",
+      "block.pig.shit_plank_stairs": "ShitPlank Stairs",
+      "item.pig.bike_spawn_egg": "Bike Spawn Egg",
+      "item.computer.shit_land": "Shit Land Portal Igniter",
+      "block.pig.shit_plank_button": "ShitPlank Button",
+      "item.computer.ddd_armor_leggings": "DDD Leggings",
+      "item.sbpig.peeed_shovel": "Peeed Shovel",
+      "item.sbpig.shit_land": "Shit Land Portal Igniter",
+      "block.computer.shit_plank_fence": "ShitPlank Fence",
+      "block.computer.closestool": "Closestool",
+      "item.computer.shited_ingot": "Shited",
+      "block.pig.pig_block": "Block of Pig",
+      "item.sbpig.peeed_armor_boots": "Peeed Boots",
+      "item.sbpig.shited_ingot": "Shited",
+      "block.pig.pig_planks": "Pig Planks",
+      "block.pig.shited_block": "Block of Shited",
+      "item.computer.mac_os": "Mac OS",
+      "item.minecraft.tipped_arrow.effect.pee_drink": "Arrow of Pee Drink",
+      "block.computer.shit_plank_log": "ShitPlank Log",
+      "item.sbpig.bill_gates_spawn_egg": "Bill Gates Spawn Egg",
+      "item.computer.bike_spawn_egg": "Bike Spawn Egg",
+      "block.sbpig.peetree_pressure_plate": "Peetree Pressure Plate",
+      "item.sbpig.dddds_hoe": "Dddds Hoe",
+      "item.pig.peeed_hoe": "Peeed Hoe",
+      "block.pig.shit_plank_log": "ShitPlank Log",
+      "item.sbpig.ddd_armor_chestplate": "DDD Chestplate",
+      "block.pig.shit_plank_pressure_plate": "ShitPlank Pressure Plate",
+      "block.sbpig.closestool": "Closestool",
+      "item.computer.pee_bucket": "Pee Bucket",
+      "block.computer.shit_plank_slab": "ShitPlank Slab",
+      "block.pig.peetree_fence": "Peetree Fence",
+      "item.pig.pigwater_bucket": "Pigwater Bucket",
+      "item.computer.dddds_pickaxe": "Dddds Pickaxe",
+      "item.pig.i_pad": "iPad",
+      "fluid.pig.pigwater": "Pigwater",
+      "item.pig.shited_armor_leggings": "Shited Leggings",
+      "item.pig.ddd_armor_helmet": "DDD Helmet",
+      "item.pig.shited_axe": "Shited Axe",
+      "block.pig.pee": "Pee",
+      "item.pig.pig_hoe": "Pig Hoe",
+      "item.computer.ddd_armor_chestplate": "DDD Chestplate",
+      "block.sbpig.peetree_button": "Peetree Button",
+      "block.sbpig.peetree_stairs": "Peetree Stairs",
+      "item.sbpig.peeed_sword": "Peeed Sword",
+      "item.sbpig.shit_mob_spawn_egg": "Shit Mob Spawn Egg",
+      "item.computer.sshi_spawn_egg": "Shit Spawn Egg",
+      "item.computer.shited_armor_helmet": "Shited Helmet",
+      "item.pig.peeed_pickaxe": "Peeed Pickaxe",
+      "block.sbpig.peetree_slab": "Peetree Slab",
+      "block.pig.peeed_ore": "Peeed Ore",
+      "entity.pig.shit_mob": "Shit Mob",
+      "block.pig.pig_button": "Pig Button",
+      "block.sbpig.shit_plank_fence": "ShitPlank Fence",
+      "item.pig.pig_shovel": "Pig Shovel",
+      "item.computer.car_spawn_egg": "Car Spawn Egg",
+      "block.pig.shit_plank_slab": "ShitPlank Slab",
+      "item.pig.shit_mob_spawn_egg": "Shit Mob Spawn Egg",
+      "block.pig.peeed_block": "Block of Peeed",
+      "item.sbpig.shited_armor_boots": "Shited Boots",
+      "item.computer.i_pad": "iPad",
+      "block.pig.closestool_button": "Closestool Button",
+      "item.pig.pig_ingot": "Pig",
+      "block.sbpig.dto": "Dind Talk Ore",
+      "block.computer.peetree_slab": "Peetree Slab",
+      "entity.pig.sshi": "Shit",
+      "item.computer.peeed_axe": "Peeed Axe",
+      "item.pig.iphone": "Iphone",
+      "item.computer.shited_armor_boots": "Shited Boots",
+      "entity.sbpig.bike": "Bike",
+      "item.sbpig.peeed_ingot": "Peeed",
+      "item.sbpig.dddds_pickaxe": "Dddds Pickaxe",
+      "biome.pig.pee_world": "Pee World",
+      "block.sbpig.block_1": "Block of shit",
+      "item.pig.ding_talk": "Ding Talk Ingot",
+      "item.pig.peeed_armor_leggings": "Peeed Leggings",
+      "block.sbpig.shit_plank_pressure_plate": "ShitPlank Pressure Plate",
+      "block.pig.pig_stairs": "Pig Stairs",
+      "item.sbpig.pigo_spawn_egg": "Pigo Spawn Egg",
+      "biome.computer.shit_world": "Shit World",
+      "item.pig.mac_os": "Mac OS",
+      "item.computer.dddds_axe": "Dddds Axe",
+      "item.sbpig.peeed_armor_chestplate": "Peeed Chestplate",
+      "entity.sbpig.traim": "Traim",
+      "item.pig.peeed_armor_boots": "Peeed Boots",
+      "block.sbpig.ding_talk_block": "Ding Talk Block",
+      "item.computer.peeed_ingot": "Peeed",
+      "item.pig.pig_pickaxe": "Pig Pickaxe",
+      "item.sbpig.peeed_axe": "Peeed Axe",
+      "block.computer.peeed_block": "Block of Peeed",
+      "entity.pig.bill_gates": "Bill Gates",
+      "block.pig.shit_plank_leaves": "ShitPlank Leaves",
+      "item.sbpig.shited_armor_chestplate": "Shited Chestplate",
+      "item.sbpig.ffofore": "弹弓",
+      "fluid.sbpig.pee": "Pee",
+      "item.computer.ddd_armor_boots": "DDD Boots",
+      "block.pig.pig_leaves": "Pig Leaves",
+      "item.computer.dddds_hoe": "Dddds Hoe",
+      "item.pig.dddds_axe": "Dddds Axe",
+      "block.pig.peetree_wood": "Peetree Wood",
+      "item.computer.shited_axe": "Shited Axe",
+      "item.pig.peeed_sword": "Peeed Sword",
+      "block.pig.peetree_button": "Peetree Button",
+      "block.computer.dto": "Dind Talk Ore",
+      "entity.computer.sshi": "Shit",
+      "subtitles.re": "",
+      "block.sbpig.shited_ore": "Shited Ore",
+      "item.computer.ffofore": "弹弓",
+      "block.pig.peetree_stairs": "Peetree Stairs",
+      "item.sbpig.peeed_armor_leggings": "Peeed Leggings",
+      "block.sbpig.shit_plank_fence_gate": "ShitPlank Fence Gate",
+      "block.pig.peetree_fence_gate": "Peetree Fence Gate",
+      "block.computer.shit_plank_button": "ShitPlank Button",
+      "item.pig.dddds_shovel": "Dddds Shovel",
+      "block.sbpig.peetree_log": "Peetree Log",
+      "item.computer.shited_sword": "Shited Sword",
+      "item.sbpig.shited_shovel": "Shited Shovel",
+      "block.sbpig.peeed_block": "Block of Peeed",
+      "block.pig.block_1": "Block of shit",
+      "block.sbpig.shit_plank_wood": "ShitPlank Wood",
+      "block.sbpig.peetree_fence": "Peetree Fence",
+      "item.computer.shited_armor_chestplate": "Shited Chestplate",
+      "item.pig.pee_bucket": "Pee Bucket",
+      "item.minecraft.potion.effect.pee_drink": "Potion of Pee Drink",
+      "block.sbpig.shited_block": "Block of Shited",
+      "entity.pig.bike": "Bike",
+      "item.pig.pig_armor_helmet": "Pig Helmet",
+      "block.pig.closestool": "Closestool",
+      "item.computer.shit_mob_spawn_egg": "Shit Mob Spawn Egg",
+      "block.pig.pigwater": "Pigwater",
+      "item.sbpig.shited_axe": "Shited Axe",
+      "item.pig.pig_dust": "Pig",
+      "block.computer.peeed_ore": "Peeed Ore",
+      "block.pig.shit_plank_wood": "ShitPlank Wood",
+      "item.sbpig.dddds_sword": "Dddds Sword",
+      "item.computer.dddds_sword": "Dddds Sword",
+      "item.pig.pigli": "Pigli",
+      "block.computer.peetree_wood": "Peetree Wood",
+      "item.pig.pee_land": "Pee Land Portal Igniter",
+      "block.computer.shit_plank_stairs": "ShitPlank Stairs",
+      "item.sbpig.ddd_armor_leggings": "DDD Leggings",
+      "item.pig.pigo_spawn_egg": "Pigo Spawn Egg",
+      "item.sbpig.shited_pickaxe": "Shited Pickaxe",
+      "item.sbpig.ding_talk": "Ding Talk Ingot",
+      "item.computer.shited_shovel": "Shited Shovel",
+      "block.computer.shit_plank_fence_gate": "ShitPlank Fence Gate",
+      "item.sbpig.pee_bucket": "Pee Bucket",
+      "subtitles.sa": "",
+      "block.computer.shit_plank_pressure_plate": "ShitPlank Pressure Plate",
+      "item.computer.shited_pickaxe": "Shited Pickaxe",
+      "item.sbpig.pee_land": "Pee Land Portal Igniter",
+      "item.computer.pee_land": "Pee Land Portal Igniter",
+      "block.pig.shit_plank_fence_gate": "ShitPlank Fence Gate",
+      "block.sbpig.peetree_fence_gate": "Peetree Fence Gate",
+      "item.computer.ding_talk": "Ding Talk Ingot",
+      "item.pig.shited_ingot": "Shited",
+      "item.pig.ddd_armor_boots": "DDD Boots"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "pig",
+    "modName": "PIG",
+    "version": "1.0.3",
+    "description": "About some pig : )",
+    "author": "Bill Gates",
+    "websiteURL": "https://go.microsoft.com",
+    "license": "Microsoft Corporation Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "purepng.com-microsoft-logologobrand-logoiconslogos-251519939132du80p",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Bill Gates",
+    "modElementsPackage": "net.mcreator.computer",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}
